@@ -1,2 +1,1 @@
-# codex_findPlayerv2
-A brand new version of codex_findPlayer!
+<h1 align="center">Codex Find Player [v2] ! </h1>
