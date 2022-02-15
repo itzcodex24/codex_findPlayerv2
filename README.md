@@ -11,7 +11,7 @@
 * Optimization Server Side
 * Better Config with more options
 
-** Contact me on discord for suggestions : codex.exe#0001 **
+**Contact me on discord for suggestions : codex.exe#0001**
 
 See you soon ;)
 
