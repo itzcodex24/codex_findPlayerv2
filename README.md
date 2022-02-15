@@ -10,3 +10,8 @@
 * Optimization Client Side
 * Optimization Server Side
 * Better Config with more options
+
+```css
+h1 {
+  color: white;
+}```
